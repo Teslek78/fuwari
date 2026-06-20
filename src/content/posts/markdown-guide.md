@@ -1,10 +1,9 @@
 ---
-title: "Markdown 极致写作与 Astro 部署指南"
-pubDate: 2026-06-15
-description: "这是一份专为内容创作者和前端开发者设计的 Markdown 写作教程。"
-author: "Xane"
-tags: ["Design", "WebDev", "Astro"]
-category: "开发"
+title: 博客
+published: 2026-06-20
+description: 记录我成功搭建个人博客的喜悦，以及未来的写作计划。
+tags: [建站, 随笔, 技术]
+category: 随笔
 draft: false
 ---
 
